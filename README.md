@@ -15,7 +15,7 @@
 - Scikit-Learn
 - Git & GitHub
 
-## Featured Project
+## Featured Projec
 ### 📈 Real-Time Stock Market Dashboard
 
 ✔ Real-time Stock Data
@@ -26,7 +26,7 @@
 ✔ Portfolio Tracker
 ✔ Price Prediction
 
-🔗 Live App: 
+🔗 Live App: https://jagritim999-ai-stock-market-dashboard-app-ce5bmc.streamlit.app
 
 🔗 GitHub Repository:
 https://github.com/jagritim999-ai/stock-market-dashboard
