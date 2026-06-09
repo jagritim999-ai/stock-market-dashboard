@@ -1,25 +1,36 @@
-# Real Time Stock Market Dashboard
+# Hi 👋, I'm Jagriti Mandal
 
-## Features
-- Real-Time Stock Data
-- Company Information
-- Candlestick Chart
-- Volume Analysis
-- Moving Averages (20, 50, 200)
-- RSI Indicator
-- Bollinger Bands
-- Buy/Sell Signal
-- Portfolio Tracker
-- Risk Analysis
-- Price Prediction
-- CSV Download
+🎓 B.Tech CSE Student
+💻 Python Developer
+📊 Building Data Science and AI Projects
+🌱 Currently Learning Machine Learning and Streamlit
+🚀 Open to Internship Opportunities
 
-## Technologies Used
+## Skills
 - Python
 - Streamlit
-- Plotly
 - Pandas
 - NumPy
-- yfinance
-- Scikit-learn
+- Plotly
+- Scikit-Learn
+- Git & GitHub
+
+## Featured Project
+### 📈 Real-Time Stock Market Dashboard
+
+✔ Real-time Stock Data
+✔ Candlestick Charts
+✔ RSI Indicator
+✔ Bollinger Bands
+✔ Buy/Sell Signal
+✔ Portfolio Tracker
+✔ Price Prediction
+
+🔗 Live App: 
+
+🔗 GitHub Repository:
+https://github.com/jagritim999-ai/stock-market-dashboard
+
+---
+⭐ Thanks for visiting my profile!
 
